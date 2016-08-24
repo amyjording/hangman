@@ -1,0 +1,12 @@
+---
+:chosen_word: FORECASTLE
+:guess: "+"
+:answers: F _  _ ECA _  _  _ E
+:hidden:
+- A
+- C
+- E
+- F
+:misses:
+- B
+- D
