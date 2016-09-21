@@ -1,12 +1,8 @@
 ---
-:chosen_word: FORECASTLE
+:chosen_word: GODHOOD
 :guess: "+"
-:answers: F _  _ ECA _  _  _ E
+:answers: " _ O _  _ OO _ "
 :hidden:
-- A
-- C
-- E
-- F
+- O
 :misses:
-- B
-- D
+- N
